@@ -2,4 +2,4 @@
 commit repositório remoto
 repositório remoto novamente
 novo commit local 
-novo exemplo pro print esse será o uma alteração no remoto
+novo exemplo pro print esse será o uma alteração no local
