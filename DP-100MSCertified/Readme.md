@@ -31,7 +31,7 @@ deactivate
 ## Informações sobre utilização do ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp; Notebook para o Bootecamp dio
 
 
-Conforme descrito em [02-Ferramentas de Desenvolvimento com Azure Machine Learning](./Documentos/Estudos/DP-100/DP-100MSCertified/Explorar%20e%20Configurar%20o%20Workspace%20do%20Azure%20Machine%20Learning/02-Ferramentas%20de%20Desenvolvimento%20com%20Azure%20Machine%20Learning/Ferramentas%20de%20Desenvolvimento%20com%20Azure%20Machine%20Learning.odt)&nbsp; é necessário realizar a importação de algumas <b> biblioteca</b> &#x1F4DA;.</br>
+Conforme descrito em [Ferramentas de Desenvolvimento com Azure Machine Learning](https://github.com/thierryLchaves/DP-100/blob/NewBranUbx/DP-100MSCertified/Explorar%20e%20Configurar%20o%20Workspace%20do%20Azure%20Machine%20Learning/02-Ferramentas%20de%20Desenvolvimento%20com%20Azure%20Machine%20Learning/Ferramentas%20de%20Desenvolvimento%20com%20Azure%20Machine%20Learning.odt)&nbsp; é necessário realizar a importação de algumas <b> biblioteca</b> &#x1F4DA;.</br>
 Com o ambiente virtual instalado e o kernel do Python devidamente funcionando dever ser utilizado o seguinte comando &#x1F468;&#x200D;&#x1F4BB;; 
 ```
 pip install azure-ai-ml
